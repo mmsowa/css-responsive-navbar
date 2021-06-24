@@ -5,4 +5,4 @@ Practice css/html project
 Simple responsive navbar with only css
 
 # Demo
-![Demo](emo.gif)
+![Demo](demo.gif)
